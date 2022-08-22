@@ -21,7 +21,7 @@ In a real-life scenario, you might want to have your dataset as biggest as possi
 
 ## Deliverables
 
-- Your fork should contain a jupyter notebook with the code to:
+Your fork should contain a jupyter notebook with the code to:
 
 * Gather the songs
 * Remove songs already present in the hot_songs dataset
