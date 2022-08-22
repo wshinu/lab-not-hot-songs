@@ -19,3 +19,9 @@ You want your dataset of not_hot_song to be:
 
 In a real-life scenario, you might want to have your dataset as biggest as possible and use specialized Big Data techniques like [PySpark](https://spark.apache.org/docs/latest/api/python/) to group similar songs together. However, you are going to work on your own laptop which has limited power. Therefore, you need to limit the size of your dataset of not_hot_songs otherwise the process of grouping similar songs will take forever.
 
+## Deliverables
+
+- Your fork should contain a jupyter notebook with the code to:
+
+* Gather the songs
+* Remove songs already present in the hot_songs dataset
