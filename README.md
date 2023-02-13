@@ -9,6 +9,7 @@ Now that you have scrapped the website [Billboard](https://www.billboard.com/cha
 * [Wikipedia](https://en.wikipedia.org/wiki/Lists_of_songs)
 * [Subset of million songs dataset](http://millionsongdataset.com/pages/getting-dataset/#subset) *Note:* this dataset takes several GB of disk space!!!
 * [Kaggle](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify)
+* Your favourite songs included in the Trello board as long as they are not hot songs :)
 
 ## Considerations
 
